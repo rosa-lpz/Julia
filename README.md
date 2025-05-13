@@ -1,2 +1,2 @@
 # Julia
-Julia Basics
+Julia Basics for Data Science
